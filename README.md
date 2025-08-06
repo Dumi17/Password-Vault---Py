@@ -1,4 +1,4 @@
-# Password-Vault---Py
+# 🔐 Password Vault – Secure CLI App in Python
 
 A **minimalist and secure command-line password manager** built with Python. This project simulates a mobile password management app but runs entirely in the terminal — combining simplicity, encryption, and good design practices.
 
