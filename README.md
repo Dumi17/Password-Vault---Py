@@ -53,5 +53,6 @@ It's also a foundation for a future GUI version or even mobile integration.
 
 ## 👤 Author
 
-Andrei-Mihnea Dumitrașcu  
+Andrei-Mihnea Dumitrașcu
+
 Student at University POLITEHNICA of Bucharest – Faculty of Automatic Control and Computer Science
